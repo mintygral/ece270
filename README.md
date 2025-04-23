@@ -19,12 +19,12 @@
 
 # Lab 10 | Lundar Module Part 1
 - Prelab
--   Full adder
--   Four-bit full adder
--   Single-digit BCD adder
--   Four-digit BCD adder
--   Nine's-complement circuit
--   Four-digit ten's-complement adder/subtracter
+  -   Full adder
+  -   Four-bit full adder
+  -   Single-digit BCD adder
+  -   Four-digit BCD adder
+  -   Nine's-complement circuit
+  -   Four-digit ten's-complement adder/subtracter
 - Memory unit
 - ALU
 - Control Unit
